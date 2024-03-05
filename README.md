@@ -1,2 +1,1 @@
-# terorist-quiz
-teroristini dogru tani turkiye
+# Mebuz Quiz, siyasetçini tanı. Kime oy verdiğini hatırla!
